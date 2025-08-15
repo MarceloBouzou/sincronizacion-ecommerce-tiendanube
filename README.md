@@ -1,6 +1,6 @@
 # Caso de Estudio: Sincronización de Inventario para E-commerce (TiendaNube)
 
-## 概要 (Resumen del Proyecto)
+## (Resumen del Proyecto)
 
 Este repositorio documenta una solución de automatización que **sincroniza en tiempo real el inventario (precios y stock) entre una Google Sheet y una tienda de E-commerce en la plataforma TiendaNube**. El sistema fue diseñado para ser operado por un usuario no-técnico y, crucialmente, para replicar la funcionalidad de carga masiva de un plan premium **sin incurrir en el costo de suscripción**, utilizando directamente la API de TiendaNube.
 
